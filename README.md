@@ -44,7 +44,3 @@ $ run the kernel
 - MLP Classifier
 - Logistic Regression
 - Decision Tree
-
-
-#### Contributors:
-- <a href="https://github.com/devanshsolani">Devansh Solani</a>
