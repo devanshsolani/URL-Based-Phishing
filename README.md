@@ -1,7 +1,7 @@
 # No Phishy
 Phishing URL Detection System
 
-#### Tech Stack :nerd_face:
+#### Tech Stack:
 <table>
 <tbody>
  <tr>
@@ -26,6 +26,8 @@ Phishing URL Detection System
   </table>
   
  #### Instructions to run
+ 
+(Change URL path to your existing file location)
 ```
 $ git clone https://github.com/devanshsolani/URL-Based_Phishing
 $ start Jupyter notebook
