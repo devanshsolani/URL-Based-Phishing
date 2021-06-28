@@ -46,9 +46,3 @@ $ run the kernel
 
 #### Contributors :woman_student:	
 - <a href="https://github.com/devanshsolani">Devansh Solani</a>
-
-<br><br>
-
-<p align="center">
-	With :heart: by <a href="" target="_blank">Devansh Solani</a>
-</p>
