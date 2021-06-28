@@ -44,5 +44,5 @@ $ run the kernel
 - Decision Tree
 
 
-#### Contributors :woman_student:	
+#### Contributors:
 - <a href="https://github.com/devanshsolani">Devansh Solani</a>
